@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977345971162",
+    "firebase_url": "https://quiz-time-28405.firebaseio.com",
+    "project_id": "quiz-time-28405",
+    "storage_bucket": "quiz-time-28405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977345971162:android:2647b1e741bd918132f6e3",
+        "android_client_info": {
+          "package_name": "goyal.world.quiztime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977345971162-bhd81e2pjmifonjbs90306brgbreo71e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "goyal.world.quiztime",
+            "certificate_hash": "e3853061a91d44776be62d6764e0e29ddb26d470"
+          }
+        },
+        {
+          "client_id": "977345971162-g1hr5qt9qikjo2984jmci052mlskeu45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMzNPOhIJlMkPnuZt8Px35DHZN8n2_ixY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977345971162-g1hr5qt9qikjo2984jmci052mlskeu45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
